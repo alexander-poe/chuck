@@ -1,0 +1,21 @@
+body {
+	background-image: url("chuck_norris_approves_by_zhangxector.jpg");
+}
+
+.center {
+  width: 100% ;
+  margin-left: auto ;
+  margin-right: auto ;
+
+}
+
+.centerr {
+  width: 50% ;
+  margin-left: auto ;
+  margin-right: auto ;
+
+}
+
+.left {
+	left: 120px;
+}
